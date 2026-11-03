@@ -44,7 +44,7 @@
             "name": "挺好分享"        },
 
         {    "url": "http://47.96.82.41:3/",
-            "name {: "小哥哥"        },
+            "name": "小哥哥"        },
 
         {    "name": "软件小哥哥",
             "url": "http://47.96.82.41:5188/svip/svip.json"  },
@@ -52,7 +52,7 @@
        {     "name": "小盒子4k",
             "url": "http://xhztv.top/4k.json"        },
 
-       {     "name": "电视自用接口",
+       {     "name": "��视自用接口",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"   },
 
         {   "name": "成人",
@@ -74,7 +74,7 @@
          {  "name": "巧记",
             "url": "http://cdn.qiaoji8.com/tvbox.json"  },
 
-          {   ame": "神秘哥哥们",
+          {   "name": "神秘哥哥们",
             "url": "http://fty.xxooo.cf/tv"        },
 
         {   "name": "摸鱼接口",
